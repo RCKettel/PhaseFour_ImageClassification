@@ -1,0 +1,20 @@
+This file will contain all relevant literature, data dictionaries, or useful references.
+
+Original Data for this project was pulled from the article:
+
+Daniel S. Kermany, Michael Goldbaum, Wenjia Cai,Et.All 
+Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning,
+Cell,
+Volume 172, Issue 5,2018,
+Pages 1122-1131.e9,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2018.02.010.
+(http://www.sciencedirect.com/science/article/pii/S0092867418301545)
+
+Data used in the project summarily downloaded from:
+
+Mooney, P. (2017). Chest X-ray Images(Pneumonia).
+Retrieved November, 2020 from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+World Pneumonia deaths graph:
+Dadonaite, B., &amp; Roser, M. (2018, November 04). Deaths from pneumonia, by age, World, 2015 to 2017. Retrieved November 12, 2020, from https://ourworldindata.org/pneumonia#burden-of-pneumonia
